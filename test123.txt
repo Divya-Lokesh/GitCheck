@@ -1,4 +1,2 @@
 Hi..say hi
-
-testGit
-check
+TestNG
